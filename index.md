@@ -1,6 +1,4 @@
-## Zhengkai Pan
-
-I'm a 4th year maths student interested in algebraic geometry. E: [zp1918@ic.ac.uk](mailto:zp1918@ic.ac.uk)
+## I'm a 4th year maths student interested in algebraic geometry. E: [zp1918@ic.ac.uk](mailto:zp1918@ic.ac.uk)
 
 ### Some random documents
 
