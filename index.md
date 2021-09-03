@@ -1,1 +1,1 @@
-### I'm a 4th year maths student interested in Algebraic Geometry.
+I'm a 4th year maths student interested in Algebraic Geometry.
